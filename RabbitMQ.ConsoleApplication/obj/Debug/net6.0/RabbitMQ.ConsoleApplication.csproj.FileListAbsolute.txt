@@ -1,0 +1,17 @@
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.ConsoleApplication.exe
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.ConsoleApplication.deps.json
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.ConsoleApplication.runtimeconfig.json
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.ConsoleApplication.dll
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.ConsoleApplication.pdb
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\RabbitMQ.ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\RabbitMQ.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\RabbitMQ.ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\RabbitMQ.ConsoleApplication.AssemblyInfo.cs
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\RabbitMQ.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\RabbitMQ.ConsoleApplication.csproj.CopyComplete
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\RabbitMQ.ConsoleApplication.dll
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\refint\RabbitMQ.ConsoleApplication.dll
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\RabbitMQ.ConsoleApplication.pdb
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\RabbitMQ.ConsoleApplication.genruntimeconfig.cache
+C:\Users\kdishliev\Desktop\nn\New folder\RabbitMQ.API\RabbitMQ.ConsoleApplication\obj\Debug\net6.0\ref\RabbitMQ.ConsoleApplication.dll
